@@ -1,3 +1,3 @@
-require  "./dumb_micro_blog"
+require  "./hello_cucumber"
 
-run DumbMicroBlog
+run HelloCucumber
